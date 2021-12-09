@@ -1,0 +1,8 @@
+obj
+bin
+.vscode
+.idea
+books.db
+books.db-shm
+books.db-wal
+.DS_Store
